@@ -1,6 +1,6 @@
-<center>
+<div align="center">
     <img width="300px" src="image/cover.png">
-</center>
+</div>
 
 # DIMG4MD
 
@@ -16,9 +16,7 @@ pip install dimg4md
 Or you can install the package from source:
 
 ```bash
-git clone https://github.com/hsiangjenli/pyimg4md.git
-cd pyimg4md
-pip install .
+pip install git+https://github.com/hsiangjenli/pyimg4md.git
 ```
 
 ## Usage
