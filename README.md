@@ -10,7 +10,7 @@ Many companies offer services that allow easy creation of Markdown on the web. H
 
 You can install the package via pip:
 ```bash
-pip install dimg4md
+pip install py-dimg4md
 ```
 
 Or you can install the package from source:
